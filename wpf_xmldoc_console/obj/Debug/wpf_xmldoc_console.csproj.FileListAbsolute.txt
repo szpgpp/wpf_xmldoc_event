@@ -1,0 +1,6 @@
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_console\bin\Debug\wpf_xmldoc_console.exe.config
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_console\bin\Debug\wpf_xmldoc_console.exe
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_console\bin\Debug\wpf_xmldoc_console.pdb
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_console\obj\Debug\wpf_xmldoc_console.csprojResolveAssemblyReference.cache
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_console\obj\Debug\wpf_xmldoc_console.exe
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_console\obj\Debug\wpf_xmldoc_console.pdb

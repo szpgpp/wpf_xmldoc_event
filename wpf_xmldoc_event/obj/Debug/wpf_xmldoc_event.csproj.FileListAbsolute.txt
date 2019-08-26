@@ -1,0 +1,1 @@
+E:\VS Forms\wpf_xmldoc_event\wpf_xmldoc_event\bin\Debug\wpf_xmldoc_event.exe.config
